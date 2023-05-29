@@ -1,1 +1,1 @@
-my first readme
+i am software engineering alx student
